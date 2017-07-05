@@ -1,0 +1,16 @@
+{
+  "name": "borrarme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine spec/test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "jquery": "^3.2.1",
+    "jshint-stylish": "^2.2.1"
+  }
+}
